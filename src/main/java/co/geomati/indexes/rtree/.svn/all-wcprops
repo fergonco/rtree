@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/gearscape-svn/!svn/ver/952/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree
+END
+ChildReferenceDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/ChildReferenceDistance.java
+END
+RTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/RTree.java
+END
+RTreeInteriorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/RTreeInteriorNode.java
+END
+RTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/RTreeNode.java
+END
+RTreeLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/RTreeLeaf.java
+END
+AbstractRTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/gearscape-svn/!svn/ver/775/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/AbstractRTreeNode.java
+END
+DiskRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gearscape-svn/!svn/ver/952/trunk/gearscape/gdms/src/main/java/org/gdms/data/indexes/rtree/DiskRTree.java
+END
